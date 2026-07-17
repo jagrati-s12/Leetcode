@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jagrati-s12/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [1527-patients-with-a-condition](https://github.com/jagrati-s12/Leetcode/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
