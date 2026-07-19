@@ -11,6 +11,7 @@
 | [0047-permutations-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/jagrati-s12/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0090-subsets-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jagrati-s12/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,10 +37,12 @@
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jagrati-s12/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jagrati-s12/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jagrati-s12/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jagrati-s12/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
 |  |
