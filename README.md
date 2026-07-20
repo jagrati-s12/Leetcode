@@ -48,4 +48,12 @@
 |  |
 | ------- |
 | [1527-patients-with-a-condition](https://github.com/jagrati-s12/Leetcode/tree/master/1527-patients-with-a-condition) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jagrati-s12/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jagrati-s12/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
