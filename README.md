@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [1527-patients-with-a-condition](https://github.com/jagrati-s12/Leetcode/tree/master/1527-patients-with-a-condition) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/jagrati-s12/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## String
 |  |
 | ------- |
