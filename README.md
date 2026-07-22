@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jagrati-s12/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/jagrati-s12/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jagrati-s12/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jagrati-s12/Leetcode/tree/master/0046-permutations) |
@@ -16,9 +17,11 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jagrati-s12/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/jagrati-s12/Leetcode/tree/master/0037-sudoku-solver) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/jagrati-s12/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jagrati-s12/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jagrati-s12/Leetcode/tree/master/0046-permutations) |
@@ -57,4 +60,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jagrati-s12/Leetcode/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/jagrati-s12/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
