@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jagrati-s12/Leetcode/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jagrati-s12/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jagrati-s12/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -64,4 +65,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jagrati-s12/Leetcode/tree/master/0037-sudoku-solver) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jagrati-s12/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jagrati-s12/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
