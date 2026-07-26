@@ -33,6 +33,7 @@
 | ------- |
 | [0078-subsets](https://github.com/jagrati-s12/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0090-subsets-ii) |
+| [0338-counting-bits](https://github.com/jagrati-s12/Leetcode/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jagrati-s12/Leetcode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/jagrati-s12/Leetcode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
