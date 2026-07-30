@@ -15,6 +15,7 @@
 | [0198-house-robber](https://github.com/jagrati-s12/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/jagrati-s12/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1710-maximum-units-on-a-truck](https://github.com/jagrati-s12/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jagrati-s12/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0047-permutations-ii) |
+| [1710-maximum-units-on-a-truck](https://github.com/jagrati-s12/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
 |  |
 | ------- |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jagrati-s12/Leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/jagrati-s12/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
