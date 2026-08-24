@@ -16,6 +16,7 @@
 | [0213-house-robber-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/jagrati-s12/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/jagrati-s12/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [1872-stone-game-viii](https://github.com/jagrati-s12/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jagrati-s12/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/jagrati-s12/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/jagrati-s12/Leetcode/tree/master/0070-climbing-stairs) |
+| [1872-stone-game-viii](https://github.com/jagrati-s12/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jagrati-s12/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jagrati-s12/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jagrati-s12/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -85,6 +87,7 @@
 | [0213-house-robber-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/jagrati-s12/Leetcode/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/jagrati-s12/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1872-stone-game-viii](https://github.com/jagrati-s12/Leetcode/tree/master/1872-stone-game-viii) |
 ## Memoization
 |  |
 | ------- |
@@ -105,5 +108,18 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/jagrati-s12/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jagrati-s12/Leetcode/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/jagrati-s12/Leetcode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/jagrati-s12/Leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/jagrati-s12/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
