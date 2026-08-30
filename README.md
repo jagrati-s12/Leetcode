@@ -18,6 +18,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/jagrati-s12/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1872-stone-game-viii](https://github.com/jagrati-s12/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jagrati-s12/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/jagrati-s12/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jagrati-s12/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/jagrati-s12/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1927-sum-game](https://github.com/jagrati-s12/Leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/jagrati-s12/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
 | ------- |
