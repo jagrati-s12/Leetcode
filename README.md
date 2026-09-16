@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jagrati-s12/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/jagrati-s12/Leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/jagrati-s12/Leetcode/tree/master/0070-climbing-stairs) |
 | [1872-stone-game-viii](https://github.com/jagrati-s12/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jagrati-s12/Leetcode/tree/master/1927-sum-game) |
