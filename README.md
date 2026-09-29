@@ -83,6 +83,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagrati-s12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/jagrati-s12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagrati-s12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0392-is-subsequence) |
 | [1927-sum-game](https://github.com/jagrati-s12/Leetcode/tree/master/1927-sum-game) |
 ## Stack
 |  |
@@ -99,6 +100,7 @@
 | [0198-house-robber](https://github.com/jagrati-s12/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/jagrati-s12/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/jagrati-s12/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1872-stone-game-viii](https://github.com/jagrati-s12/Leetcode/tree/master/1872-stone-game-viii) |
 ## Memoization
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagrati-s12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
