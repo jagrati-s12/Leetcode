@@ -11,6 +11,9 @@ class Solution {
         return true;
     }
     public String longestPalindrome(String s) {
+        if(s.length()==0){
+            return "";
+        }
         int l = 0;
         String ans = "";
 
