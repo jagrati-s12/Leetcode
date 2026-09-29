@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jagrati-s12/Leetcode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/jagrati-s12/Leetcode/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/jagrati-s12/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jagrati-s12/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -48,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/jagrati-s12/Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0047-permutations-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/jagrati-s12/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jagrati-s12/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/jagrati-s12/Leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagrati-s12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
