@@ -17,6 +17,7 @@
 | [0090-subsets-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/jagrati-s12/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0213-house-robber-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/jagrati-s12/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/jagrati-s12/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1872-stone-game-viii](https://github.com/jagrati-s12/Leetcode/tree/master/1872-stone-game-viii) |
@@ -31,6 +32,7 @@
 | [0001-two-sum](https://github.com/jagrati-s12/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagrati-s12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/jagrati-s12/Leetcode/tree/master/0037-sudoku-solver) |
+| [0594-longest-harmonious-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jagrati-s12/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
 |  |
@@ -54,6 +56,7 @@
 | [0016-3sum-closest](https://github.com/jagrati-s12/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/jagrati-s12/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0047-permutations-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/jagrati-s12/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
 |  |
@@ -152,6 +155,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagrati-s12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,4 +201,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jagrati-s12/Leetcode/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
