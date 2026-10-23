@@ -32,6 +32,7 @@
 | [0001-two-sum](https://github.com/jagrati-s12/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagrati-s12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/jagrati-s12/Leetcode/tree/master/0037-sudoku-solver) |
+| [0187-repeated-dna-sequences](https://github.com/jagrati-s12/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jagrati-s12/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
@@ -49,6 +50,7 @@
 | ------- |
 | [0078-subsets](https://github.com/jagrati-s12/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/jagrati-s12/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0338-counting-bits](https://github.com/jagrati-s12/Leetcode/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@
 | [0005-longest-palindromic-substring](https://github.com/jagrati-s12/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/jagrati-s12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagrati-s12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/jagrati-s12/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0392-is-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0392-is-subsequence) |
 | [1927-sum-game](https://github.com/jagrati-s12/Leetcode/tree/master/1927-sum-game) |
 ## Stack
@@ -155,6 +158,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagrati-s12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/jagrati-s12/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
@@ -173,6 +177,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagrati-s12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/jagrati-s12/Leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -181,6 +186,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagrati-s12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/jagrati-s12/Leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Tree
 |  |
 | ------- |
@@ -205,4 +211,12 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/jagrati-s12/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/jagrati-s12/Leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
