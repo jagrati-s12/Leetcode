@@ -35,6 +35,7 @@
 | [0037-sudoku-solver](https://github.com/jagrati-s12/Leetcode/tree/master/0037-sudoku-solver) |
 | [0187-repeated-dna-sequences](https://github.com/jagrati-s12/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jagrati-s12/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jagrati-s12/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
@@ -100,6 +101,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jagrati-s12/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/jagrati-s12/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0392-is-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jagrati-s12/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1927-sum-game](https://github.com/jagrati-s12/Leetcode/tree/master/1927-sum-game) |
 ## Stack
 |  |
@@ -162,6 +164,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagrati-s12/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/jagrati-s12/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/jagrati-s12/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jagrati-s12/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/jagrati-s12/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
@@ -222,4 +225,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/jagrati-s12/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/jagrati-s12/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
